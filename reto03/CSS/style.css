@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    background: url(/reto03/fondo.jpg) center;
+}
+header{
+    text-align: center;
+    
+}
+.input{
+    width: 300px;
+    height: 40px;
+    margin: 20px;
+    background-color: #efefef;
+    text-align: center;
+    border-radius: 10px
+    
+}
+h1{
+    margin: 20px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+  ;
+}
+.form-check-input{
+    background-color:#efefef;
+
+}
+footer{
+    text-align: center;
+   
+    background-color: #efefef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.marcado{
+    text-decoration: line-through;
+
+}
+.popup{
+    font-size: 4px;
+    height: 250px;
+    width: 150px;
+    background-color: #efefef;
+    padding: 10px;
+    position: fixed;
+    left: 50%;
+    top: 25%;
+    border-radius: 10px;
+    display: none;
+}
+.letra{
+    font-size: 20px;
+    text-align: justify;
+}
